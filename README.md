@@ -21,7 +21,7 @@
   + Language
     * English (TOEIC total score : 840)
 + Project
-  * [CAPSTONE DESIGN Project](https://drive.google.com/drive/u/0/folders/1xwD7-UYhvytnx5hyWOrlAXi_tGGWKjns), Apr 2018 - Dec 2018
+  * [CAPSTONE DESIGN Project](https://yccapstone.netlify.app), Apr 2018 - Dec 2018
     - Unknown outdoor environment exploration Robot Development
   * Smart Construction Robot, Mar 2018 - Feb 2019
   * [World Robot Olympiad (WRO)](https://drive.google.com/drive/u/0/folders/1WNLXWpKy_xoxFxGZ2nR_WsghixLyfmwl), Feb 2019 - Nov 2019
