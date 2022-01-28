@@ -1,13 +1,34 @@
-# Yuniqque
+# Yunchang Nam
 
-This is an H1
-===========================
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yunchang%20NAM&fontSize=90)
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></n>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/LabView-FFDB00?style=flat-square&logo=LabView&logoColor=white"/></a>
++ Personal Information
+  + Birth : 1998.11.09 (25)
++ Education
+  + B.S. in [Konkuk University](http://www.konkuk.ac.kr/do/Index.do), Seoul, Korea
+  + Major in Department of Electrical and Electronics Engineering
+  + GPA : 3.3/4.5
++ Research Interest
+  + Image Processing
+  + Autonomous Driving
+  + Path planning
+  + Computer Vision
++ Skills & Abilities
+  + Programming Skills
+    * <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> : Machine learning, Computer vision
+    * <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> : Image processing development tool
+    * <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c&logoColor=white"/></a> : Constructing Algorithm
+    * <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a> : Robot & Drone control Algorithm development
+    * <img src="https://img.shields.io/badge/LabView-FFDB00?style=flat-square&logo=LabView&logoColor=white"/></a> : Power system & modeling simulation control
+  + Language
+    * English (TOEIC total score : 840)
++ Project
+  * CAPSTONE DESIGN Project, 2018
+    - Unknown outdoor environment exploration Robot Development
+  * Smart Construction Robot, 2018
+  * World Robot Olympiad (WRO), 2019
+    - Smart Construction and Transportation Robot Development, 2nd prize
+  * Drone Autonomous Driving Project, ADD, 2020
+    - Drone Autonomous filght At unknown indoor environment, 3rd prize
++ Research Experience
+  * Undergraduate, Dec 2019 - Jun 2020, Navigation & Control System Lab
++ Military Service
+  * Worked as Officer(ROTC), Signalman(통신병과) Mar 2021 - Jun 2023, 수도기계화보병사단
