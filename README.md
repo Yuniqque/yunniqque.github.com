@@ -7,10 +7,10 @@
   + Major in Department of Electrical and Electronics Engineering
   + GPA : 3.3/4.5
 + Research Interest
-  + Image Processing
-  + Autonomous Driving
+  + [Image Processing](https://drive.google.com/drive/u/0/folders/1cH5Z85rf60JAgjShdHixzE8CH1UV66tn)
+  + [Autonomous Driving](https://drive.google.com/drive/u/0/folders/14anUIUmdIHjcUGatvUqN0vo60ltGrlVj)
   + [Path planning](https://drive.google.com/drive/u/0/folders/1i7RBXFq3Or_vdYCXiknowsuvPSyHJVVm)
-  + Computer Vision
+  + [Computer Vision](https://drive.google.com/drive/u/0/folders/11MhkZ6xFQvJ5AjkI7KyKtH12pDWVCUB2)
 + Skills & Abilities
   + Programming Skills
     * <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> : Machine learning, Computer vision
@@ -21,12 +21,12 @@
   + Language
     * English (TOEIC total score : 840)
 + Project
-  * CAPSTONE DESIGN Project, 2018
+  * [CAPSTONE DESIGN Project](https://drive.google.com/drive/u/0/folders/1xwD7-UYhvytnx5hyWOrlAXi_tGGWKjns), Apr 2018 - Dec 2018
     - Unknown outdoor environment exploration Robot Development
-  * Smart Construction Robot, 2018
-  * World Robot Olympiad (WRO), 2019
+  * Smart Construction Robot, Mar 2018 - Feb 2019
+  * [World Robot Olympiad (WRO)](https://drive.google.com/drive/u/0/folders/1WNLXWpKy_xoxFxGZ2nR_WsghixLyfmwl), Feb 2019 - Nov 2019
     - Smart Construction and Transportation Robot Development, 2nd prize
-  * Drone Autonomous Driving Project, ADD, 2020
+  * [Drone Autonomous Driving Project](https://drive.google.com/drive/u/0/folders/1vNGgogu4ZQOPip7-RIRTy5SnUZY1Qtgw), ADD, Dec 2019 - Jun 2020
     - Drone Autonomous filght At unknown indoor environment, 3rd prize
 + Research Experience
   * Undergraduate, Dec 2019 - Jun 2020, Navigation & Control System Lab
