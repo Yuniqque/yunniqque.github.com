@@ -5,7 +5,6 @@
 + Education
   + B.S. in [Konkuk University](http://www.konkuk.ac.kr/do/Index.do), Seoul, Korea
   + Major in Department of Electrical and Electronics Engineering
-  + GPA : 3.3/4.5
 + Research Interest
   + [Image Processing](https://drive.google.com/drive/u/0/folders/1cH5Z85rf60JAgjShdHixzE8CH1UV66tn)
   + [Autonomous Driving](https://drive.google.com/drive/u/0/folders/14anUIUmdIHjcUGatvUqN0vo60ltGrlVj)
