@@ -22,6 +22,7 @@
 + Project
   * [CAPSTONE DESIGN Project](https://projectcs.netlify.app/), Apr 2018 - Dec 2018
     - Unknown outdoor environment exploration Robot Development
+    - 테크닉 위주 
   * Smart Construction Robot, Mar 2018 - Feb 2019
   * [World Robot Olympiad (WRO)](https://drive.google.com/drive/u/0/folders/1WNLXWpKy_xoxFxGZ2nR_WsghixLyfmwl), Feb 2019 - Nov 2019
     - Smart Construction and Transportation Robot Development, 2nd prize
